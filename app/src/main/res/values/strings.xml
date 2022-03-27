@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Task</string>
+    <string name="link">https://github.com/wycats</string>
+    <string name="not_available_for_hire">Not available for hire</string>
+    <string name="user_name">User name</string>
+    <string name="follow">Follow</string>
+    <string name="system">System</string>
+    <string name="battery">Battery</string>
+    <string name="dark">Dark</string>
+    <string name="light">Light</string>
+</resources>
